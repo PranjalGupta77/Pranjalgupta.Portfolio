@@ -6,6 +6,7 @@ import Intro from './Intro';
 import About from './About';
 import Footer from './Footer'
 import Contact from './Contact';
+import SkillCard from './SkillCard';
 
 function HomePage() {
   

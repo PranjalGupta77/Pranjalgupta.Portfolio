@@ -4,9 +4,6 @@ function Intro() {
   
  return (
   <div className='md:flex md:justify-between items-center md:flex-row-reverse md:px-32'>
-    {/* <div className="flex justify-center ">
-    <img className="aspect-square" src="https://cdn.discordapp.com/attachments/937703716662943824/1023465732102688808/IMG_20220925_105716.png"/>
-    </div> */}
     <div className="mx-auto mt-5 h-64 w-64 md:h-96 md:w-96 shrink-0">
       <img className="h-full w-full rounded-full object-cover" src="https://cdn.discordapp.com/attachments/937703716662943824/1023465732102688808/IMG_20220925_105716.png" />
     </div>
